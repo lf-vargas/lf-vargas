@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=lf-vargas&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lf-vargas&layout=compact&theme=dark)
 <!--
 **lf-vargas/lf-vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
